@@ -1,0 +1,2 @@
+[2024-04-11T15:31:35.369] [TRACE] TcpClient - 摄像头 yanfa_test 连接成功
+[2024-04-11T15:31:55.574] [TRACE] TcpClient - yanfa_test 摄像头 '获取摄像头硬件版本信息'{"cmd":"get_hw_board_version","id":0} 命令发送成功

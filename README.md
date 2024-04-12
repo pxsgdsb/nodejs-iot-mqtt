@@ -1,6 +1,6 @@
 # nodejs-iot-mqtt
  
-基于nodejs的网络***物联网***服务，包含```MQTT、TCP```服务端与客户端连接。包含日志存储、登录鉴权、编码解析，封装redis、mysql连接函数等。
+基于nodejs的***物联网*** 服务，包含```MQTT、TCP```服务端与客户端连接。包含日志存储、登录鉴权、编码解析，封装redis、mysql连接函数等。
 
 
 ### 依赖环境
@@ -13,6 +13,10 @@
 ![image](screenshots.gif)
 
 #### 使用 
+
+```js
+node app.js
+```
 
 ``` javascript
 import MQTT from "./tool/MqttServer.js"   
