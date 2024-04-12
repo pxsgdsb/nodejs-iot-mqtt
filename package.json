@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-iot-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "log4js": "^6.3.0",
+    "mosca": "^2.8.3",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "redis": "^3.1.2",
+    "validator": "^13.7.0"
+  }
+}
